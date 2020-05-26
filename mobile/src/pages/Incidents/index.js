@@ -56,7 +56,7 @@ export default function Incidents() {
 
             <Text style={styles.title}>Welcome !</Text>
             <Text style={styles.description}>
-                asdsdsdasdsdsadsadsadasdsadasdsadasdasdasdasdasdasdsadsadasdasdad
+                Bem vindo ao aplicativo
             </Text>
 
             <FlatList
